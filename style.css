@@ -43,9 +43,10 @@ a{
 
 }
 a:hover{
-    color: rgb(41, 205, 23);
+    color: rgb(28, 168, 12);
     font-size:large;
     text-decoration: underline;
+    font-size: 1.2rem;
 }
 #section h2,h4{
     margin-left: 60px;
