@@ -114,6 +114,7 @@ a:hover{
    padding-top: 50px;
    padding-bottom: 10px;
   font-size: 35px;
+  text-decoration: underline;
 }
 #footer{
     background-color: rgb(255, 200, 47);
